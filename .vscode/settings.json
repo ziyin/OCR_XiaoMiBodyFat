@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2cc65abe-280b-45da-8991-bee9ed176ab4/resourceGroups/ziyin/providers/Microsoft.Web/sites/xiaomi-bodyfat",
+    "appService.deploySubpath": "."
+}

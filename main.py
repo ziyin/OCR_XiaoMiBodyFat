@@ -6,6 +6,7 @@ import cv2
 import re
 
 app = FastAPI()
+
 reader = easyocr.Reader(['ch_tra', 'en'], gpu=False)
 
 @app.post("/predict-xiao-mi-body-fat")
